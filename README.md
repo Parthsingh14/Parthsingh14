@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Singh</h1>
 <h3 align="center">A passionate Java programmer and Frontend-Developer from INDIA</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Parthsingh14/Parthsingh14/assets/71585861/61181ff3-10b9-4ccd-8e72-3e5e9004632d)
-">
+<img align="right" alt="coding" width="400" src="user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsingh14&label=Profile%20views&color=0e75b6&style=flat" alt="parthsingh14" /> </p>
 
