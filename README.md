@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **parthsingh503@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YVz1VoL8OONOudvrf2xmVR48ZbQ0G0Tl/view?usp=drive_link](https://drive.google.com/file/d/1YVz1VoL8OONOudvrf2xmVR48ZbQ0G0Tl/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19ly8nQzUODH68iSV3mwLkEV_xzSNmCqh/view?usp=drive_link)
 
 - ⚡ Fun fact **I often code to the rhythm of music! Whether it's Java jazz, CSS symphonies, or JavaScript beats, there's nothing like a good melody to fuel my coding sessions. Who said programming couldn't be a jam session? 🎶**
 
