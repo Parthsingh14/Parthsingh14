@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsingh14&label=Profile%20views&color=0e75b6&style=flat" alt="parthsingh14" /> </p>
 
-- 🔭 I’m currently working on **Uber-Clone [MERN]**
+- 🔭 I’m currently working on **AI-Agent Web App [MERN]**
 
 - 🌱 I’m currently learning **Backend (MERN STACK)**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **parthsingh503@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19ly8nQzUODH68iSV3mwLkEV_xzSNmCqh/view?usp=drive_link)
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/19ly8nQzUODH68iSV3mwLkEV_xzSNmCqh/view?usp=drive_link](https://drive.google.com/file/d/19ly8nQzUODH68iSV3mwLkEV_xzSNmCqh/view?usp=drive_link))
 
 - ⚡ Fun fact **I often code to the rhythm of music! Whether it's Java jazz, CSS symphonies, or JavaScript beats, there's nothing like a good melody to fuel my coding sessions. Who said programming couldn't be a jam session? 🎶**
 
