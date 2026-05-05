@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=800&color=818CF8&center=true&vCenter=true&width=500&height=28&lines=Open+to+SDE+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=800&color=818CF8&center=true&vCenter=true&width=500&height=28&lines=Currently+in+training+@+IBM+•+Building+scalable+systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 # Parth Singh
 
@@ -26,7 +26,7 @@ const parth = {
   role      : "Full-Stack Engineer",
   location  : "Delhi, India",
   focus     : ["GenAI / RAG Pipelines", "Scalable APIs", "Real-world systems"],
-  currently : "Interning @ Bytemasks — shipping production dashboards",
+  currently : "Associate System Engineer (Trainee) @ IBM — undergoing training & assessment",
   exploring : ["Docker", "AWS", "Distributed Systems"],
   mantra    : "Ship fast. Iterate faster. Never hallucinate."
 };
